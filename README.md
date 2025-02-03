@@ -1,3 +1,19 @@
+- [PGAP](#pgap)
+  * [Instructions](#instructions)
+  * [References](#references)
+    + [NCBI](#ncbi)
+    + [GeneMarkS-2+](#genemarks-2)
+    + [CheckM](#checkm)
+    + [TIGRFAMs](#tigrfams)
+  * [LICENSING TERMS](#licensing-terms)
+    + [NCBI PGAP CWL](#ncbi-pgap-cwl)
+    + [Third-party tools](#third-party-tools)
+    + [GeneMarkS-2+](#genemarks-2-1)
+    + [CheckM](#checkm-1)
+    + [TIGRFAMs](#tigrfams-1)
+
+
+
 # PGAP
 NCBI Prokaryotic Genome Annotation Pipeline
 
